@@ -4,16 +4,16 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project Name"
+  value: "ankita-demo-392804"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "SAP_Reporting"
   export: override_required
 }
 
 constant: CLIENT {
-  value: "Client ID"
+  value: "100"
   export: override_required
 }
